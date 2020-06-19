@@ -1,0 +1,2 @@
+rootProject.name='Remote Bound Service Example'
+include ':app'
